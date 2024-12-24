@@ -37,6 +37,13 @@ This folder contains files demonstrating object detection and classification usi
 
 ---
 
+### Folder 3: SLAM_Demo
+<div align="justify">
+This folder contains the Simultaneous Localization and Mapping demonstration using the TurtleBot3 waffle in Gazebo using ROS2 and the SLAM toolbox. Most of the steps to making this demonstration are described in (https://docs.nav2.org/tutorials/docs/navigation2_with_slam.html).
+</div>
+
+---
+
 ## Demos
 
 The project also includes demo files that showcase the robot's performance:
@@ -49,5 +56,7 @@ The project also includes demo files that showcase the robot's performance:
 3. **`ReinforcementLearningDemo.mp4`**
    - Displays the MP4 simulation of the pillow being moved by the robotic arm.
    - Its located in **Reinforcement_Learning_Demo_using_uf-gym/RFSimulationMP4**
+4. **`SLAMSimulationGif.gif`**
+   - Displays a gif of the simulation of the bed-making robot navigating in the bedroom and mapping out the environment, and determining its pose within the environment.
 
 ---
