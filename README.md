@@ -58,5 +58,6 @@ The project also includes demo files that showcase the robot's performance:
    - Its located in **Reinforcement_Learning_Demo_using_uf-gym/RFSimulationMP4**
 4. **`SLAMSimulationGif.gif`**
    - Displays a gif of the simulation of the bed-making robot navigating in the bedroom and mapping out the environment, and determining its pose within the environment.
+   - Its located in **SLAM_Demo**
 
 ---
